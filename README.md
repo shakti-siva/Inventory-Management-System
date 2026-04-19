@@ -41,7 +41,7 @@ A full-stack inventory management application built to track, update, and manage
 ## 📷 Screenshots
 
 ![Dashboard](<Screenshot 2026-04-16 215948.png>) 
-![Add item](image-1.png)
+![Add Item](<Screenshot 2026-04-16 220128.png>)
 
 ---
 
@@ -49,6 +49,13 @@ A full-stack inventory management application built to track, update, and manage
 
 This application currently uses SQLite for simplicity. When deployed on platforms like Render (free tier), the file system may reset, which can result in temporary data loss.  
 In a production environment, this would be replaced with a persistent database such as PostgreSQL.
+
+---
+## 🎯 Key Learnings
+- Designing and structuring full-stack web applications
+- Implementing CRUD operations with a relational database
+- Building modular backend systems using Flask
+- Deploying applications for real-world access
 
 ---
 
